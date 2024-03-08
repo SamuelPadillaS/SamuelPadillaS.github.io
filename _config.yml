@@ -30,7 +30,7 @@ twitter_username: samuel
 github_username:  samuel
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
