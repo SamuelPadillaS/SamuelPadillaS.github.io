@@ -31,10 +31,7 @@ github_username:  samuel
 
 # Build settings
 
-theme: bulma-clean-theme
-
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: minima
 
 plugins:
   - jekyll-feed
