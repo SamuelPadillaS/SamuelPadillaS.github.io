@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalación de una pila LAMP en Ubuntu Server"
-date:   2024-03-08 10:19:37 -0600
+date:   2024-02-19 07:00:37 -0600
 categories: jekyll update
 ---
 
